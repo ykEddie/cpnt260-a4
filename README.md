@@ -18,3 +18,7 @@ Another issue I had was figuring out how to get the form to just sit on the righ
 ### Attributions
 
 [Photo by Sanaan Mazhar from Pexels](https://images.pexels.com/photos/2272752/pexels-photo-2272752.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+
+### Flare
+
+Hover on button (line 157-158 and for nav)
